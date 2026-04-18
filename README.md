@@ -22,9 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,postgres,mongodb,redis,prisma,docker,git,github,postman" />
-
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,postgres,mongodb,redis,prisma,docker,git,postman" />
 </p>
 
 ---
@@ -37,12 +35,12 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/EbrahimShoeib1999">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
 <a href="https://www.facebook.com/ibrahim.shoeib.2025">
 <img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://wa.me/201024994092">
+<img src="https://skillicons.dev/icons?i=whatsapp" />
 </a>
 
 </p>
@@ -71,9 +69,7 @@
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimShoeib1999&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -86,18 +82,10 @@
 
 ---
 
-## ✨ Activity Graph (Animation)
+## ✨ Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EbrahimShoeib1999&theme=tokyo-night" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-<p align="center">
-I build real-world SaaS systems, not just tutorials 😎
 </p>
 
 ---

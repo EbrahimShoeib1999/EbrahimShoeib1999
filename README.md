@@ -26,7 +26,8 @@
 - SaaS & ERP Systems  
 
 ## 📫 How to reach me
-- ibrahimshoeib255@gmail.com  
+- 📧 Email: ibrahimshoeib255@gmail.com  
+- 📞 Phone / WhatsApp: +20 1024994092 / +20 1010814966  
 
 ## 👨‍💻 All of my projects are available at
 - https://github.com/EbrahimShoeib1999  
@@ -72,9 +73,19 @@
 
 ## 🌐 Connect with me
 <p align="left">
+
 <a href="https://www.linkedin.com/in/ibrahim-shoeib-9b1339246/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
 </a>
+
+<a href="https://github.com/EbrahimShoeib1999" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/ibrahim.shoeib.2025" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40" />
+</a>
+
 </p>
 
 ---
@@ -82,15 +93,15 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EbrahimShoeib1999&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EbrahimShoeib1999&show_icons=true&theme=radical" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EbrahimShoeib1999&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EbrahimShoeib1999&theme=radical" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimShoeib1999&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimShoeib1999&layout=compact&theme=radical" />
 </p>
 
 ---

@@ -1,183 +1,240 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Mohamed Shoeib</h1>
+# Hi there 👋, I'm Ibrahim Mohamed Shoeib
 
 <h3 align="center">
-🚀 Backend Engineer (NestJS, Prisma) | SaaS & ERP Systems Builder
+🚀 Backend Engineer | NestJS • Node.js • TypeScript • PostgreSQL
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;NestJS+%7C+Prisma+Expert;Building+Scalable+SaaS+Systems;Open+to+Remote+Opportunities" />
+Building scalable SaaS, ERP & Business Management Systems
+</p>
+
+<p align="center">
+<a href="https://github.com/EbrahimShoeib1999">
+<img src="https://komarev.com/ghpvc/?username=EbrahimShoeib1999&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/EbrahimShoeib1999?tab=followers">
+<img src="https://img.shields.io/github/followers/EbrahimShoeib1999?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/EbrahimShoeib1999?tab=repositories">
+<img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:ibrahimshoeib255@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ibrahim-shoeib-9b1339246/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 📍 Based in New Damietta, Egypt  
-- 💼 Backend-focused Full-Stack Developer (2+ years)  
-- 🧠 Specialized in scalable APIs & SaaS systems  
-- ⚙️ Working with NestJS, Prisma, PostgreSQL  
-- 🚀 Built real-world ERP & business platforms  
-- 👨‍💻 Experience leading development teams  
+I'm a **Backend Engineer** from **Egypt 🇪🇬** with **2+ years of experience** building scalable backend systems for SaaS products, ERP solutions, and business management platforms.
+
+My primary focus is designing clean architectures, developing secure REST APIs, and building maintainable backend applications using modern technologies.
 
 ---
 
 ## 🚀 What I Do
 
-- Build scalable backend systems using NestJS  
-- Design clean architecture & modular APIs  
-- Develop SaaS & ERP platforms  
-- Optimize database performance with Prisma  
+* ⚡ Build scalable backend applications using **NestJS** & **Node.js**
+* 🏗 Design Clean & Modular Architecture
+* 🔐 Implement Authentication & Authorization (JWT / RBAC)
+* 🗄 Design optimized relational databases
+* 🐳 Dockerize applications
+* 📚 Write maintainable and production-ready APIs
+* 🚀 Deliver complete SaaS & ERP solutions
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,postgres,mongodb,prisma,docker,git,github,postman,react,nextjs" />
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,ts,js"/>
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
+</p>
+
+### ORM
+
+* Prisma ORM
+* Sequelize ORM
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind"/>
+</p>
+
+## DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode"/>
 </p>
 
 ---
 
-## 🧠 Backend Focus
+# 💼 Experience
 
-- **Primary:** NestJS, Prisma, PostgreSQL  
-- **Secondary:** Node.js (Express), MongoDB  
-- **Frontend (Support):** React.js, Next.js  
+### Freelance Backend / Full Stack Developer
 
----
+**2022 — Present**
 
-## 💼 Professional Experience
+✔ Built scalable SaaS platforms
 
-### 👨‍💻 Freelance Full-Stack Developer  
-📅 2022 – Present  
+✔ Developed ERP systems
 
-- Built scalable SaaS and ERP systems for real-world business use  
-- Designed high-performance REST APIs using NestJS  
-- Structured databases with PostgreSQL & Prisma  
-- Improved maintainability using TypeScript  
-- Delivered full projects from idea → production  
-- Led development workflows and team coordination  
+✔ Designed RESTful APIs using NestJS
+
+✔ PostgreSQL & Prisma database design
+
+✔ Dockerized backend applications
+
+✔ Delivered production-ready business solutions
 
 ---
 
-## 🚀 Key Projects
+# ⭐ Featured Projects
 
-### 🧾 SaaS Workspace & ERP System  
-- Multi-role system (Admin / Users / Management)  
-- Role-based booking system with dynamic workflows  
-- Backend built with NestJS & Prisma  
-- PostgreSQL database design  
-- Docker-ready architecture  
+## 🏢 Workspace ERP Backend
 
----
+Backend system for managing workspaces and business operations.
 
-### 🏢 POS & Restaurant ERP System  
-- Full system for managing orders, payments & operations  
-- Backend APIs with Node.js & Express  
-- MongoDB database integration  
-- Built for real-world business usage  
+### Highlights
 
----
-
-### 🌊 Dive Log Social Platform  
-- Backend system for social platform  
-- API integrations & scalable services  
-- PostgreSQL + Prisma  
+* NestJS
+* PostgreSQL
+* Prisma ORM
+* JWT Authentication
+* RBAC
+* Docker
+* REST APIs
 
 ---
 
-## 🎓 Education
+## 🚚 Deliveria Backend
 
-🎓 Bachelor of Computer Science  
-Damietta University — 2022  
+Delivery Management Platform Backend.
 
----
+### Highlights
 
-## 📜 Certifications
-
-- Full Stack Web Development – Udemy  
-- Advanced JavaScript – Coursera  
-- TypeScript for Developers  
-
----
-
-## 🌍 Languages
-
-- Arabic: Native  
-- English: Intermediate  
+* Authentication
+* Order Tracking
+* Driver Management
+* Business Workflow
+* Modular Architecture
 
 ---
 
-## 🌐 Connect with me
+## 🛒 E-Commerce Dashboard
+
+Modern Admin Dashboard.
+
+### Built With
+
+* React.js
+* Redux Toolkit
+* Tailwind CSS
+* REST API Integration
+
+---
+
+## 🌐 Portfolio Website
+
+Personal portfolio showcasing projects, experience and skills.
+
+---
+
+# 📖 Currently Learning
+
+* System Design
+* Redis
+* BullMQ
+* Microservices
+* CI/CD
+* AWS
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ibrahim-shoeib-9b1339246/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EbrahimShoeib1999&show_icons=true&theme=tokyonight"/>
 
-<a href="https://www.facebook.com/ibrahim.shoeib.2025">
-<img src="https://skillicons.dev/icons?i=facebook" />
-</a>
-
-<a href="https://wa.me/201024994092">
-<img src="https://skillicons.dev/icons?i=whatsapp" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimShoeib1999&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📫 Contact Info
+# 🔥 GitHub Streak
 
 <p align="center">
 
-📧 ibrahimshoeib255@gmail.com  
-📞 +20 1024994092 / +20 1010814966  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EbrahimShoeib1999&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EbrahimShoeib1999&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EbrahimShoeib1999&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EbrahimShoeib1999&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌍 Connect With Me
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=EbrahimShoeib1999&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
+📍 New Damietta, Egypt
 
----
+📧 **[ibrahimshoeib255@gmail.com](mailto:ibrahimshoeib255@gmail.com)**
 
-## ✨ Activity Graph
+💼 LinkedIn
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EbrahimShoeib1999&theme=tokyo-night" />
-</p>
+https://www.linkedin.com/in/ibrahim-shoeib-9b1339246/
 
----
+💻 GitHub
 
-## 💼 Let's Work Together
-
-I'm open for:
-- Freelance Projects 💰  
-- Remote Jobs 🌍  
-- SaaS Collaborations 🚀  
-
-📩 Feel free to contact me anytime!
+https://github.com/EbrahimShoeib1999
 
 ---
 
+# 💼 Open To Work
+
+I'm currently available for:
+
+* Backend Engineer Roles
+* Node.js Developer
+* NestJS Developer
+* Remote Opportunities
+* SaaS Development
+* ERP Systems
+* Freelance Projects
+
+---
+
+# 💡 Favorite Quote
+
+> **"First, solve the problem. Then, write clean and scalable code."**
+
+---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+⭐ Thanks for visiting my profile! Feel free to check out my repositories and don't forget to leave a star if you like my work.
 </p>

@@ -9,6 +9,11 @@ Building scalable SaaS, ERP & Business Management Systems
 </p>
 
 <p align="center">
+
+<a href="https://ibrahimshoeib.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-6f42c1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://github.com/EbrahimShoeib1999">
 <img src="https://komarev.com/ghpvc/?username=EbrahimShoeib1999&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </a>
@@ -28,80 +33,113 @@ Building scalable SaaS, ERP & Business Management Systems
 <a href="https://www.linkedin.com/in/ibrahim-shoeib-9b1339246/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Backend Engineer** from **Egypt 🇪🇬** with **2+ years of experience** building scalable backend systems for SaaS products, ERP solutions, and business management platforms.
+I'm a **Backend-Focused Full-Stack Engineer** from **Egypt 🇪🇬** with **3+ years of experience** building scalable backend systems, SaaS platforms, ERP solutions, and enterprise business applications.
 
-My primary focus is designing clean architectures, developing secure REST APIs, and building maintainable backend applications using modern technologies.
+I specialize in designing modular architectures, developing secure REST APIs, optimizing databases, and delivering production-ready backend solutions using modern technologies.
+
+🌐 **Portfolio:**  
+**https://ibrahimshoeib.vercel.app**
 
 ---
 
-## 🚀 What I Do
+# 🚀 What I Do
 
-* ⚡ Build scalable backend applications using **NestJS** & **Node.js**
-* 🏗 Design Clean & Modular Architecture
-* 🔐 Implement Authentication & Authorization (JWT / RBAC)
-* 🗄 Design optimized relational databases
-* 🐳 Dockerize applications
-* 📚 Write maintainable and production-ready APIs
-* 🚀 Deliver complete SaaS & ERP solutions
+- ⚡ Build scalable backend applications using **NestJS**, **Node.js**, and **TypeScript**
+- 🏗 Design Clean Architecture & Modular Systems
+- 🔐 Implement Authentication & Authorization (JWT / RBAC)
+- 🗄 Design optimized PostgreSQL & MongoDB databases
+- 📦 Build RESTful APIs
+- 🐳 Dockerize applications
+- 🚀 Develop complete SaaS & ERP systems
+- 📈 Optimize performance & scalability
 
 ---
 
 # 🛠 Tech Stack
 
-## Backend
+## 💻 Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,ts,js"/>
 </p>
 
-## Databases
+- NestJS
+- Node.js
+- Express.js
+- TypeScript
+- JavaScript
+
+---
+
+## 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
 </p>
 
-### ORM
+- PostgreSQL
+- MongoDB
 
-* Prisma ORM
-* Sequelize ORM
+---
 
-## Frontend
+## ⚙ ORM
+
+- Prisma ORM
+- Sequelize ORM
+
+---
+
+## 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind"/>
 </p>
 
-## DevOps & Tools
+- React.js
+- Next.js
+- Redux Toolkit
+- RTK Query
+- Tailwind CSS
+
+---
+
+## ☁ DevOps & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode"/>
 </p>
 
+- Docker
+- Git
+- GitHub
+- Postman
+- Swagger
+- VS Code
+
 ---
 
 # 💼 Experience
 
-### Freelance Backend / Full Stack Developer
+## Freelance Backend / Full-Stack Developer
 
-**2022 — Present**
+**July 2022 — Present**
 
-✔ Built scalable SaaS platforms
+### Highlights
 
-✔ Developed ERP systems
-
-✔ Designed RESTful APIs using NestJS
-
-✔ PostgreSQL & Prisma database design
-
-✔ Dockerized backend applications
-
-✔ Delivered production-ready business solutions
+- ✅ Built scalable SaaS platforms
+- ✅ Developed ERP systems
+- ✅ Designed RESTful APIs using NestJS
+- ✅ PostgreSQL & Prisma database design
+- ✅ Authentication & RBAC implementation
+- ✅ Dockerized backend applications
+- ✅ Delivered production-ready business solutions
 
 ---
 
@@ -109,31 +147,31 @@ My primary focus is designing clean architectures, developing secure REST APIs, 
 
 ## 🏢 Workspace ERP Backend
 
-Backend system for managing workspaces and business operations.
+Backend system for workspace and business management.
 
-### Highlights
+### Tech
 
-* NestJS
-* PostgreSQL
-* Prisma ORM
-* JWT Authentication
-* RBAC
-* Docker
-* REST APIs
+- NestJS
+- PostgreSQL
+- Prisma
+- JWT
+- RBAC
+- Docker
+- REST APIs
 
 ---
 
 ## 🚚 Deliveria Backend
 
-Delivery Management Platform Backend.
+Delivery Management Platform.
 
-### Highlights
+### Features
 
-* Authentication
-* Order Tracking
-* Driver Management
-* Business Workflow
-* Modular Architecture
+- Authentication
+- Driver Management
+- Order Tracking
+- Business Workflow
+- Modular Architecture
 
 ---
 
@@ -141,29 +179,34 @@ Delivery Management Platform Backend.
 
 Modern Admin Dashboard.
 
-### Built With
+### Stack
 
-* React.js
-* Redux Toolkit
-* Tailwind CSS
-* REST API Integration
-
----
-
-## 🌐 Portfolio Website
-
-Personal portfolio showcasing projects, experience and skills.
+- React.js
+- Redux Toolkit
+- Tailwind CSS
+- REST API Integration
 
 ---
 
-# 📖 Currently Learning
+## 🌐 Personal Portfolio
 
-* System Design
-* Redis
-* BullMQ
-* Microservices
-* CI/CD
-* AWS
+Modern developer portfolio showcasing projects, experience, and technical skills.
+
+🔗 **Live Demo**
+
+**https://ibrahimshoeib.vercel.app**
+
+---
+
+# 📚 Currently Learning
+
+- System Design
+- Redis
+- BullMQ
+- Microservices
+- CI/CD
+- AWS
+- Kubernetes
 
 ---
 
@@ -189,7 +232,7 @@ Personal portfolio showcasing projects, experience and skills.
 
 ---
 
-# 📊 Activity Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -201,17 +244,13 @@ Personal portfolio showcasing projects, experience and skills.
 
 # 🌍 Connect With Me
 
-📍 New Damietta, Egypt
-
-📧 **[ibrahimshoeib255@gmail.com](mailto:ibrahimshoeib255@gmail.com)**
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/ibrahim-shoeib-9b1339246/
-
-💻 GitHub
-
-https://github.com/EbrahimShoeib1999
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | https://ibrahimshoeib.vercel.app |
+| 💼 LinkedIn | https://www.linkedin.com/in/ibrahim-shoeib-9b1339246/ |
+| 💻 GitHub | https://github.com/EbrahimShoeib1999 |
+| 📧 Email | ibrahimshoeib255@gmail.com |
+| 📍 Location | New Damietta, Egypt |
 
 ---
 
@@ -219,22 +258,29 @@ https://github.com/EbrahimShoeib1999
 
 I'm currently available for:
 
-* Backend Engineer Roles
-* Node.js Developer
-* NestJS Developer
-* Remote Opportunities
-* SaaS Development
-* ERP Systems
-* Freelance Projects
+- 🚀 Backend Engineer
+- ⚡ NestJS Developer
+- 💻 Node.js Developer
+- 🌍 Remote Opportunities
+- 🏢 Full-Time Roles
+- 💼 Freelance Projects
+- 📦 SaaS Development
+- 🏗 ERP Systems
 
 ---
 
 # 💡 Favorite Quote
 
-> **"First, solve the problem. Then, write clean and scalable code."**
+> **"First, solve the problem. Then, write clean, maintainable, and scalable code."**
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to check out my repositories and don't forget to leave a star if you like my work.
+
+### ⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+🌐 **Portfolio:** https://ibrahimshoeib.vercel.app
+
+Thanks for visiting my profile ❤️
+
 </p>
